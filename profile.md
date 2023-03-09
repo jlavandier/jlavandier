@@ -12,7 +12,6 @@
 - 👨‍💻 Tecnologias que conozco
 
 
-
 - 💻 lenguajes dominados
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">                                                                               <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -25,7 +24,6 @@
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
-- 📫 How to reach me **javierlavandier@gmail.com**
 <br/>
 
 
@@ -43,7 +41,7 @@
 	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Nolife_Javi">
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	<a href="mailto:javierlavandier@gmail.com"> 
-		<img src="![image](https://user-images.githubusercontent.com/106609873/224147672-7473ffa4-adc0-49be-8bef-a7443b1a662b.png)" width="40" heigth="40"></a>
+		<img src="https://cdn-icons-png.flaticon.com/512/324/324123.png" alt="gmail" width="40px"></a>
   </div>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlavandier&label=Profile%20views&color=99ccff&style=flat" alt="100rabhcsmc" /> </p>
