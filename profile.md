@@ -2,6 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlavandier&label=Profile%20views&color=99ccff&style=flat" alt="100rabhcsmc" /> </p>
 <h3 align="center">Apasionante del desarrollo web, actualmente estudiante de la carrera de Ingenieria de Software</h3>
 
+<p>Actualmente tengo un nivel junior en el desarrollo web y en general, dia tras dia estudiando nuevos lenguajes y tecnologias para llevar a lo mas alto mi camino como Front End. Me gusta mucho la tecnologia como tal, como funciona, como te puede ayudar y como nos ayuda a evolucionar como humanos. Tengo altas capcidades para la creatividad y creacion de diseños y funciones que pueda utilizar un sitio web, me gusta la mera idea de como puedo perfeccionar un sitio web ya hecho o crear una perfeccion desde cero. </p>
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
