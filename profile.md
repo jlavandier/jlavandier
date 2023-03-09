@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Javier </h1>
 
-<h3 align="center">Apasionante del desarrollo web, actualmente estudiante de la carrera de Ingenieria de Software</h3>
+<h3 align="center">Actualmente estudiante de la carrera de Ingenieria de Software y aspirante a destacar como Front-end dev 😎</h3>
 
-<p>Actualmente tengo un nivel junior en el desarrollo web y en general, día tras día estudiando nuevos lenguajes y tecnologías para llevar a lo más alto mi camino como Front End. Me gusta mucho la tecnología como tal, como funciona, como te puede ayudar y como nos ayuda a evolucionar como humanos. Tengo altas capacidades para la creatividad y creación de diseños y funciones que pueda utilizar un sitio web, me gusta la mera idea de cómo puedo perfeccionar un sitio web ya hecho o crear una perfección desde cero. </p>
+<p>Actualmente tengo un nivel junior en el desarrollo web, día tras día voy estudiando nuevos lenguajes y tecnologías para llevar a lo más alto mi camino como Front End. Me gusta mucho la tecnología como tal, como funciona, como te puede ayudar y como nos ayuda a evolucionar como humanos. Tengo altas capacidades para la creatividad y creación de diseños y funciones que pueda utilizar un sitio web, me gusta la simple idea de cómo puedo perfeccionar un sitio web ya hecho o crear una perfección desde cero. </p>
 
 
 <a target="_blank" align="center">
@@ -11,23 +11,23 @@
 
 - 👨‍💻 Tecnologias que conozco
 
+<a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>                                                                              <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 
-- 💻 lenguajes dominados
+<a href="https://sass-lang.com/"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> <a href="https://www.microsoft.com/es-es/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+"></a> <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+"></a> <a href=""><img src=""></a> <a href=""><img src=""></a> <a href=""><img src=""></a>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">                                                                               <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+- 📚 Tecnologias en curso de aprendizaje
 
-<a href="https://sass-lang.com/"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="https://es.reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
-- 📚 lenguajes por aprender
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a> <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
 <br/>
 
 
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="gif" width="40" height="40" style="margin-top: 15px;"> Redes sociales 🤳 </h2>
+<h2 align="center"> Redes sociales 🤳 </h2>
 
 <p align="center">
 
@@ -44,4 +44,4 @@
 		<img src="https://cdn-icons-png.flaticon.com/512/324/324123.png" alt="gmail" width="40px"></a>
   </div>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jlavandier&label=Profile%20views&color=99ccff&style=flat" alt="100rabhcsmc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jlavandier&label=Profile%20views&color=99ccff&style=flat" alt="100rabhcsmc" /> </p>
