@@ -27,7 +27,7 @@
 <br/>
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Redes sociales 🤳 </h3>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="gif" width="40" height="40" style="margin-top: 15px;"> Redes sociales 🤳 </h2>
 
 <p align="center">
 
