@@ -4,12 +4,17 @@
 
 <p>Actualmente tengo un nivel junior en el desarrollo web, día tras día voy estudiando nuevos lenguajes y tecnologías para llevar a lo más alto mi camino como Front End. Me gusta mucho la tecnología como tal, como funciona, como te puede ayudar y como nos ayuda a evolucionar como humanos. Tengo altas capacidades para la creatividad y creación de diseños y funciones que pueda utilizar un sitio web, me gusta la simple idea de cómo puedo perfeccionar un sitio web ya hecho o crear una perfección desde cero. </p>
 
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- ⚡ Fun fact : Anime and Video Games🎮 are the reasons to live.
+
+<br>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 👨‍💻 Tecnologías que conozco
+<h3>👨‍💻 Tecnologías que conozco</h3>
 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>                                                                              <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="https://sass-lang.com/"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 
@@ -19,7 +24,7 @@
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a> 
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
-- 📚 Tecnologías en curso de aprendizaje
+<h3> 📚 Tecnologías en curso de aprendizaje</h3>
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="https://es.reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
