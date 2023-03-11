@@ -2,16 +2,15 @@
 
 <h3 align="center">Actualmente estudiante de la carrera de Ingenieria de Software y aspirante a destacar como Front-end dev 😎</h3>
 
-<p>Actualmente tengo un nivel junior en el desarrollo web, día tras día voy estudiando nuevos lenguajes y tecnologías para llevar a lo más alto mi camino como Front End. Me gusta mucho la tecnología como tal, como funciona, como te puede ayudar y como nos ayuda a evolucionar como humanos. Tengo altas capacidades para la creatividad y creación de diseños y funciones que pueda utilizar un sitio web, me gusta la simple idea de cómo puedo perfeccionar un sitio web ya hecho o crear una perfección desde cero. </p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🐱‍👤 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 
-- ⚡ Fun fact : Anime and Video Games🎮 are the reasons to live.
+- ⚡ Sobre mi: Me encantan los video juegos y el anime
 
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="350" width="500" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <h3>👨‍💻 Tecnologías que conozco</h3>
