@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, soy Javier Lavandier </h1>
-<div>
-<h3 align="left">About me</h3>
+<h3 align="center">Hola 👋, soy Javier Lavandier </h3>
+<div align="left">	
 	
+# About Me:	
 - 👨‍💻 Soy estudiante de grado en la carrera de Ingenieria de Software
 - 🐱‍👤 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 - ☁️ Tengo 1 año de experiencia trabajando con tecnología cloud
@@ -10,7 +10,7 @@
 
 <br>
 
-<h2> 🛠️ My skills </h2>
+# My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 	
 <img align="right" top="500" height="350" width="500" bottom="500" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
@@ -35,11 +35,11 @@
 
 <br/>
 
+<div align="center">
 
-<h2 align="center"> Connect with me 🙋‍♂️ </h2>
-
+# Connect With Me 🌐
 <p align="center">
-
+</div>
 <div align="center"  class="icons-social" style="margin-left: 10px;">
 	<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/javier-lavandier-tejada-385473241/">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
