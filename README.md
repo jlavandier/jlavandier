@@ -1,4 +1,4 @@
-<img src="https://preview.redd.it/gk4cplcv63v61.png?auto=webp&s=592f759637bed9666474b7327829de80842f8227" width="500px" height="300px">
+<img src="https://preview.redd.it/gk4cplcv63v61.png?auto=webp&s=592f759637bed9666474b7327829de80842f8227" width="500px" height="300px"></img>
 # 👋 Hey, I'm Javier
 ⚡I help companies with solutions on SAP Business One as a SAP Developer<br>💻Coding, creating and always learning<br>👾Love animes and video games<br>📍Dominican
 
